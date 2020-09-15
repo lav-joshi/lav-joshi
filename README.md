@@ -45,5 +45,6 @@
 
 <details>
   <summary>:zap: Github Stats</summary>
-![Lav's github stats](https://github-readme-stats.vercel.app/api?username=lav-joshi&show_icons=true&hide_border=true)
+   <img align="left" alt="Lav's Github Stats" src="https://github-readme-stats.vercel.app/api?username=lav-joshi&show_icons=true&hide_border=true" />
+<!-- ![Lav's github stats]() -->
 </details>
