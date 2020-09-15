@@ -6,7 +6,7 @@
 <a href="https://www.instagram.com/lav_joshi2002/">
   <img align="left" alt="lav-joshi Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<br/><br/>
+
 
 ## I'm a Competitive Coder and a Full Stack Web Developer!
 
@@ -15,6 +15,8 @@
 - 👯 Open for Collaboration .
 - 🥅 2020 Goals: ACM ICPC & to develop some more cool stuff . 
 - ⚡ I enjoy listening music 🎧 and traveling 🏝️🗻.
+
+
 
 
 **Languages and Tools:**
@@ -29,6 +31,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
+
 
 
 ![Lav's github stats](https://github-readme-stats.vercel.app/api?username=lav-joshi&show_icons=true&hide_border=true)
