@@ -43,8 +43,16 @@
 <code><img width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 <br/>
 
+
+### Spotify Playing 🎧
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />]()
+
+
 <details>
   <summary>:zap: Github Stats</summary>
    <img align="left" alt="Lav's Github Stats" src="https://github-readme-stats.vercel.app/api?username=lav-joshi&show_icons=true&hide_border=true" />
 <!-- ![Lav's github stats]() -->
 </details>
+
+- 💬 Ask me about anything, I am happy to help
+- 📫 How to reach me: govinddixit93@gmail.com
