@@ -25,7 +25,6 @@
 - 🥅 2020 Goals: ACM ICPC & to develop some more cool stuff . 
 - ⚡ I enjoy listening music 🎧 and traveling 🏝️🗻.
 
-<br/>
 
 
 ### Languages and Tools:
