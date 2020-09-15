@@ -64,3 +64,8 @@
 
 ### Show some ❤️ by starring some of the repositories!
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/lav-joshi/count.svg" />
+</p>
+
