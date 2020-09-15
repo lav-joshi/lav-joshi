@@ -6,7 +6,7 @@
 <a href="https://www.instagram.com/lav_joshi2002/">
   <img align="left" alt="lav-joshi Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-
+<br/>
 
 ## I'm a Competitive Coder and a Full Stack Web Developer!
 
