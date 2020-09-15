@@ -47,6 +47,10 @@
 ### Spotify Playing 🎧
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://www.spotify.com/in/)
 
+<a href="https://github.com/lav-joshi">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lav-joshi&theme=light&hide_langs_below=1" />
+</a>
+
 
 <details>
   <summary>:zap: Github Stats</summary>
