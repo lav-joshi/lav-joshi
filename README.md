@@ -43,6 +43,7 @@
 <code><img width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 <br/>
 
-
+<details>
+  <summary>:zap: Github Stats</summary>
 ![Lav's github stats](https://github-readme-stats.vercel.app/api?username=lav-joshi&show_icons=true&hide_border=true)
-
+</details>
