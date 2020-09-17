@@ -55,7 +55,9 @@
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://www.spotify.com/in/)
 <details>
   <summary>:zap: Github Stats</summary>
-   <img align="left" alt="Lav's Github Stats" src="https://github-readme-stats.vercel.app/api?username=lav-joshi&show_icons=true&hide_border=true" /> 
+<!--    <img align="left" alt="Lav's Github Stats" src="https://github-readme-stats.vercel.app/api?username=lav-joshi&show_icons=true&hide_border=true" />  -->
+  [![Lav's github stats](https://github-readme-stats.vercel.app/api?username=lav-joshi)]
+
 <!-- ![Lav's github stats]() -->
 </details>
 
