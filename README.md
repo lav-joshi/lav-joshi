@@ -1,4 +1,4 @@
-### Hi 👋 there, I'm Lav
+### Hi 👋 there, I'm Lav Joshi
 
 <a href="https://www.linkedin.com/in/lav-joshi-b72248196/">
   <img align="left" alt="lav-joshi LinkedIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
