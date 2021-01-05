@@ -17,7 +17,7 @@
 </a>
 <br/>
 
-## I'm a Competitive Coder and a Full Stack Web and Android Developer!
+## I'm a Competitive Coder and a Full Stack Web and Flutter Developer!
 
 - 💰 Want to start my startup !!
 - 🔭 I’m currently learning ReactJS .
